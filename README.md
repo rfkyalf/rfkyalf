@@ -23,7 +23,7 @@ You can find me on various social media platforms:
          <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
       <a href="https://www.instagram.com/rfkyalf/">
          <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-      <a href="https://www.linkedin.com/in/rifkyalfarez/">
+      <a href="https://www.facebook.com/rrfkyalf">
          <img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/></a>
    </p>
    
