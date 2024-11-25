@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-Hi! I am Rifky Alfarez, an 8th semester student majoring in Informatics. I have a big interest in frontend development and currently focusing on React.js and Next.js. Besides that, I also have a basic understanding of Node.js, Express.js, and Prisma.'
+Graduated from Informatics of Siliwangi University with a deep interest in web development. Skilled and experienced in designing, developing, and testing websites using modern technologies such as Next.js and React.js.
 
    <p align="left">
       <a href="https://github.com/rfkyalf?tab=followers">
@@ -41,7 +41,6 @@ You can find me on various social media platforms:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
 </div>
