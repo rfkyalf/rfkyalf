@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-Graduated from Informatics of Siliwangi University with a deep interest in web development. Skilled and experienced in designing, developing, and testing websites using modern technologies such as Next.js and React.js.
+A graduate of Siliwangi University's Informatics Engineering department with a deep interest in web development. Skilled and experienced in designing, developing, and testing websites using modern technologies such as Next.js and React.js.
 
    <p align="left">
       <a href="https://github.com/rfkyalf?tab=followers">
